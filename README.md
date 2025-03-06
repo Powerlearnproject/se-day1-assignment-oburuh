@@ -33,7 +33,7 @@ IDEs provide tools for writing and debugging code eg visual studio. VCSs track c
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Changing requirements
-Tight deadlines
+Very Tight deadlines
 Technical debts
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
